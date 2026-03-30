@@ -1,0 +1,298 @@
+{
+  "companies": [
+    {
+      "name": "特别数据",
+      "routes": [
+        {
+          "route": "RES",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "专车",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://98922197422890",
+                          "sideid": "rbxassetid://128789766172724",
+                          "backid": "rbxassetid://0"
+                        },
+                                                {
+                          "frontid": "rbxassetid://138900027199284",
+                          "sideid": "rbxassetid://88377029659821",
+                          "backid": "rbxassetid://0"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "name": "沃巴",
+      "routes": [
+        {
+          "route": "11",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "妈阁",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://70838949097989",
+                          "sideid": "rbxassetid://111757147963869",
+                          "backid": "rbxassetid://140644448865853"
+                        },
+                        {
+                          "frontid": "rbxassetid://70838949097989",
+                          "sideid": "rbxassetid://127649185399392",
+                          "backid": "rbxassetid://140644448865853"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "氹仔",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://73452391275107",
+                          "sideid": "rbxassetid://139045263548526",
+                          "backid": "rbxassetid://140644448865853"
+                        },
+                        {
+                          "frontid": "rbxassetid://73452391275107",
+                          "sideid": "rbxassetid://81061453879697",
+                          "backid": "rbxassetid://140644448865853"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+        {
+      "name": "古拉巴士校車",
+      "routes": [
+        {
+          "route": "DKC1",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "學校",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://136159314188332",
+                          "sideid": "rbxassetid://136699615436359",
+                          "backid": "rbxassetid://74115217914557"
+                        },
+                        {
+                          "frontid": "rbxassetid://77363700227296",
+                          "sideid": "rbxassetid://106516222107488",
+                          "backid": "rbxassetid://74115217914557"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "市區",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://82959858163809",
+                          "sideid": "rbxassetid://109264814072201",
+                          "backid": "rbxassetid://74115217914557"
+                        },
+                        {
+                          "frontid": "rbxassetid://82959858163809",
+                          "sideid": "rbxassetid://109264814072201",
+                          "backid": "rbxassetid://74115217914557"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+                {
+          "route": "DKC2",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "學校",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://102547507144336",
+                          "sideid": "rbxassetid://129825751518570",
+                          "backid": "rbxassetid://123587179676732"
+                        },
+                        {
+                          "frontid": "rbxassetid://98357384796984",
+                          "sideid": "rbxassetid://84273041002382",
+                          "backid": "rbxassetid://123587179676732"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "空氣花園",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://119728361731654",
+                          "sideid": "rbxassetid://115036797550276",
+                          "backid": "rbxassetid://123587179676732"
+                        },
+                        {
+                          "frontid": "rbxassetid://114333526477592",
+                          "sideid": "rbxassetid://107784345045868",
+                          "backid": "rbxassetid://123587179676732"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+                {
+          "route": "DKC3",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "學校",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://137161287372690",
+                          "sideid": "rbxassetid://95679499258336",
+                          "backid": "rbxassetid://107249340009218"
+                        },
+                        {
+                          "frontid": "rbxassetid://110819179333080",
+                          "sideid": "rbxassetid://112294484356476",
+                          "backid": "rbxassetid://107249340009218"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "鹽西",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://124308031142534",
+                          "sideid": "rbxassetid://111513620745057",
+                          "backid": "rbxassetid://107249340009218"
+                        },
+                        {
+                          "frontid": "rbxassetid://124308031142534",
+                          "sideid": "rbxassetid://111513620745057",
+                          "backid": "rbxassetid://107249340009218"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+                {
+          "route": "DKC4",
+          "dirs": {
+            "0": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "新世紀酒店",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://0",
+                          "sideid": "rbxassetid://0",
+                          "backid": "rbxassetid://0"
+                        },
+                        {
+                          "frontid": "rbxassetid://0",
+                          "sideid": "rbxassetid://0",
+                          "backid": "rbxassetid://0"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            "1": {
+              "routeings": {
+                "1": {
+                  "stages": {
+                    "0": {
+                      "dest": "Yoho金銀島名勝世界酒店",
+                      "pages": [
+                        {
+                          "frontid": "rbxassetid://0",
+                          "sideid": "rbxassetid://0",
+                          "backid": "rbxassetid://0"
+                        },
+                        {
+                          "frontid": "rbxassetid://0",
+                          "sideid": "rbxassetid://0",
+                          "backid": "rbxassetid://0"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
