@@ -3,11 +3,11 @@
   "routeTables": [
     {
       "routes": ["NR911", "NR912", "NR913", "302R", "605", "606", "B2", "B2S", "A03"],
-      "text": ["(CODE1)", "中文名1", "ENGLISHNAME1"]
+      "text": ["(GURA)", "古拉巴士", "GURABUS"]
     },
     {
       "routes": ["PR1", "608", "N608", "608R", "N91A", "N930", "933", "938", "B3"],
-      "text": ["(CODE2)", "中文名2", "ENGLISHNAME2"]
+      "text": ["(KDBS)", "新橄運巴士", "KAYDEE BUSES"]
     }
   ],
   "routesData": [
